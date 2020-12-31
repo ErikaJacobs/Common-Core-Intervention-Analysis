@@ -10,9 +10,8 @@ This repository features project files for a a time series intervention analysis
 ## Packages Used
 * astsa - R Studio
 
-# Featured Notebooks, Scripts, Analysis, or Deliverables
+# Featured Scripts or Deliverables
 * [R Studio Script](https://github.com/ErikaJacobs/Common-Core-Intervention-Analysis/blob/master/Jacobs%20Capstone%20R%20Script.R)
-* [Blog Post](https://erikajacobs.netlify.app/post/adding-up-stem-qualifications/)
 * [Video Presentation](https://www.youtube.com/watch?v=N-IHzDWAviI)
 
 # Other Repository Contents
